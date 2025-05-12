@@ -28,6 +28,9 @@ public class DynamicQueryDemo {
 		
 		String query = sc.nextLine();
 		
+		//this is a test comment
+		
+		
 		boolean b = st.execute(query);
 		
 		if(b) {
